@@ -1,6 +1,57 @@
 .ipynb_checkpoints
 .jpg
 .txt
+
+HW0 - Python and Image processing/data/coins.jpg
+HW0 - Python and Image processing/data/oy.jpg
+HW1 - Classification/cifar-10-batches-py/cifar-10-python.tar.gz
+HW1 - Classification/cifar-10-batches-py/cifar-10-batches-py/batches.meta
+HW1 - Classification/cifar-10-batches-py/cifar-10-batches-py/data_batch_1
+HW1 - Classification/cifar-10-batches-py/cifar-10-batches-py/data_batch_2
+HW1 - Classification/cifar-10-batches-py/cifar-10-batches-py/data_batch_3
+HW1 - Classification/cifar-10-batches-py/cifar-10-batches-py/data_batch_4
+HW1 - Classification/cifar-10-batches-py/cifar-10-batches-py/data_batch_5
+HW1 - Classification/cifar-10-batches-py/cifar-10-batches-py/readme.html
+HW1 - Classification/cifar-10-batches-py/cifar-10-batches-py/test_batch
+HW1 - Classification/code/WHAT TO PUT IN HERE.txt
+HW1 - Classification/data/imagenet1000_clsidx_to_labels.txt
+HW1 - Classification/data/birds/bird_0.jpg
+HW1 - Classification/data/birds/bird_1.jpg
+HW1 - Classification/data/cats/cat_0.jpg
+HW1 - Classification/data/cats/cat_1.jpg
+HW1 - Classification/data/cats/cat_2.jpg
+HW1 - Classification/data/cats/cat_3.jpg
+HW1 - Classification/data/cats/cat_4.jpg
+HW1 - Classification/data/cats/cat_5.jpg
+HW1 - Classification/data/cats/cat_6.jpg
+HW1 - Classification/data/cats/cat_7.jpg
+HW1 - Classification/data/cats/cat_8.jpg
+HW1 - Classification/data/cats/cat_9.jpg
+HW1 - Classification/data/dogs/dog_0.jpg
+HW1 - Classification/data/dogs/dog_1.jpg
+HW1 - Classification/data/dogs/dog_2.jpg
+HW1 - Classification/data/dogs/dog_3.jpg
+HW1 - Classification/data/dogs/dog_4.jpg
+HW1 - Classification/data/dogs/dog_5.jpg
+HW1 - Classification/data/dogs/dog_6.jpg
+HW1 - Classification/data/dogs/dog_7.jpg
+HW1 - Classification/data/dogs/dog_8.jpg
+HW1 - Classification/data/dogs/dog_9.jpg
+HW1 - Classification/data/my_data/boar1.jpg
+HW1 - Classification/data/my_data/dog1.jpg
+HW1 - Classification/data/my_data/dog2.jpg
+HW1 - Classification/data/my_data/dog3.jpg
+HW1 - Classification/data/my_data/dog4.jpg
+HW1 - Classification/data/my_data/dog5.jpg
+HW1 - Classification/data/my_data/WHAT TO PUT IN HERE.txt
+HW1 - Classification/output/WHAT TO PUT IN HERE.txt
+HW1 - Classification/ee046746_hw1_316112671_316398551.docx
+HW1 - Classification/ee046746_hw1_316112671_316398551.pdf
+HW1 - Classification/HW1_Report.docx
+HW1 - Classification/data/my_data/cat1.jpg
+HW1 - Classification/data/my_data/cat2.jpg
+
+
 HW1 - Classification/output/cifar-10-batches-py/cifar-10-batches-py/data_batch_1
 HW1 - Classification/output/cifar-10-batches-py/cifar-10-batches-py/data_batch_2
 HW1 - Classification/output/cifar-10-batches-py/cifar-10-batches-py/data_batch_3
@@ -12,3 +63,14 @@ HW2 - Segmentation/data/horses/horse1.png
 HW2 - Segmentation/data/video_models/dancing_man_model.mp4
 HW2 - Segmentation/data/video_models/dinosaur_model.mp4
 HW2 - Segmentation/data/video_models/jet_model.mp4
+
+HW2 - Segmentation/data/cow.jpg
+HW2 - Segmentation/data/imagenet1000_clsidx_to_labels.txt
+HW2 - Segmentation/data/sheep.jpg
+HW2 - Segmentation/data/background/beach.jpg
+HW2 - Segmentation/data/background/moon.jpg
+HW2 - Segmentation/data/background/room.jpg
+HW2 - Segmentation/data/frogs/frog1.jpg
+HW2 - Segmentation/data/frogs/frog2.jpg
+HW2 - Segmentation/data/horses/horse2.jpg
+HW2 - Segmentation/data/my_data/WHAT TO PUT IN HERE.txt
